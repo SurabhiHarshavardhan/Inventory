@@ -1,0 +1,4 @@
+product_id,name,category,quantity,price,reorder_level,last_updated
+1,iphone,mobile,89,90000.0,85000,2026-10-09 22:20:00
+2,hp,laptop,67,75000.0,71000,2026-10-09 22:21:40
+3,tv,tv,45,12236.0,2334,2026-10-09 22:23:04
